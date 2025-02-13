@@ -2,7 +2,7 @@
 
 **WithAngular is a new ecosystem and community built specifically for Angular developers.** It provides essential tools, resources, and platforms to support developers in their journey while expanding what is available in the Angular space.
 
-[![WithAngular](/profile/withangular_dev_cover-logo.jpg)](https://withangular.dev)
+[![WithAngular](withangular_dev_cover-logo.jpg)](https://withangular.dev)
 
 ## What is WithAngular?
 WithAngular is a collection of domains and services designed to **help Angular developers** at various stages of their projects. Whether you need project showcases, workflow tools, mentorship, or job opportunities, WithAngular has you covered. It is not just a set of tools - it is a **growing community** dedicated to making Angular development more accessible, efficient, and connected.
