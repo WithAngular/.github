@@ -26,4 +26,4 @@ WithAngular is more than just a set of tools; it is a **growing community of Ang
 ### Connect with Us
 - 🌐 Website: [WithAngular.dev](https://withangular.dev)
 - 🐦 Twitter: [@WithAngular](https://twitter.com/WithAngular)
-- 💬 Discord: [Join the community](https://discord.gg/WithAngular)
+- 💬 Discord: [Join the community](https://discord.gg/G2m2zeqm7nr)
